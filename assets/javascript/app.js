@@ -47,7 +47,7 @@ questionArray[3] = {
 		"<div class='incorrect'>Safety Last!</div>",
 	],
 	answerImage: "<img src='assets/images/dieHard.gif' />",
-	move: "Die Hard"
+	movie: "Die Hard"
 }
 	
 questionArray[4] = {
